@@ -13,3 +13,6 @@ easy, normal, hard레벨 조정 가능하며 60초내에 결승선에 닿아야 
  
 
 plugin밑에 적절한 directory만들어서 가시면 됩니다.
+
+
+copyright에 문제가 있는게 있으면 내리겠습니다.
